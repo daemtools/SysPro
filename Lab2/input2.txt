@@ -1,0 +1,18 @@
+void func2()
+    while (x)
+        b = 5;
+        if (j)
+            c = 5;
+        else
+            z = 7;
+            do e;
+            loop
+            while (z)
+                f = 8;
+    g = 1;
+    wend
+    h = 4;
+    do i;
+    loop
+    while (w)
+        j;
